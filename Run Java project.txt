@@ -1,0 +1,5 @@
+cd C:\Java projects
+javac Hello.java
+java Hello
+git init
+git status
